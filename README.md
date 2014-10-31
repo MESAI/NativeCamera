@@ -1,5 +1,6 @@
 MESAI0
 ======
+A Sample app to use opencv for getting camera frames natively.
 
 http://mesai0.blogspot.com/
 
